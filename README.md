@@ -1,0 +1,1 @@
+# wxminigame-cdn
