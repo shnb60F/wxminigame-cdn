@@ -1,1 +1,2 @@
 # wxminigame-cdn
+add TemplateData
