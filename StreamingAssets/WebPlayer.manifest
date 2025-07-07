@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1649606564
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: monji
+      Dependencies: {}
+    Info_1:
+      Name: archer
+      Dependencies: {}
